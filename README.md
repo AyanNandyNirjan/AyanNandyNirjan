@@ -19,7 +19,7 @@ I’ve worked on projects involving:
 
 ### Fun Facts
 
-* 📸 Part of a photography club (DIUPS)
+* 📸 Was part of a photography club (DIUPS)
 * ☕ Can work for hours with good music
 * 🎯 Interested in AI, research, and creative tech
 * 🚀 Always trying to build something new
