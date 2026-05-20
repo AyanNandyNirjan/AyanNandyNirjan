@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**AyanNandyNirjan/AyanNandyNirjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Ayan Nandy**, a recent graduate in **Computer Science & Engineering** from **Daffodil International University**.
 
-Here are some ideas to get you started:
+I enjoy building things that solve problems, whether it’s web applications, machine learning projects, or system-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work revolves around **Machine Learning, Web Development, IoT, and System Design**.
+I love turning ideas into real projects and continuously learning new technologies along the way.
+
+My favorite tools and technologies include **Python, JavaScript, React, MongoDB, Linux, and TensorFlow**.
+
+I’ve worked on projects involving:
+
+* Machine Learning & Data Analysis
+* Attention/Concentration Prediction Systems
+* GPS Tracking Systems
+* IoT-based Applications
+* Full Stack Web Development
+
+### Fun Facts
+
+* 📸 Part of a photography club (DIUPS)
+* ☕ Can work for hours with good music
+* 🎯 Interested in AI, research, and creative tech
+* 🚀 Always trying to build something new
+
+> “Code, create, learn, repeat.”
